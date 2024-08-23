@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     
-    vector<double> arr = { 88, 76, 95, 89, 77, 84, 91, 73, 87, 82};
+    vector<int> arr = { 88, 76, 95, 89, 77, 84, 91, 73, 87, 82};
         
     for(int i=0;i<arr.size();i++){
         int mini = i;
